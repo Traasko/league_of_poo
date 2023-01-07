@@ -1,0 +1,17 @@
+{
+    "name": "trasko/lol-jeu",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Traasko",
+            "email": "thomas.yalap.pro@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
